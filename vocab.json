@@ -1,0 +1,27 @@
+{
+  "token_to_idx": {
+    "<PAD>": 0,
+    "<UNK>": 1,
+    "data": 2,
+    "encoding": 3,
+    "for": 4,
+    "hot": 5,
+    "language": 6,
+    "learning": 7,
+    "machine": 8,
+    "models": 9,
+    "natural": 10,
+    "numerical": 11,
+    "one": 12,
+    "processing": 13,
+    "python": 14,
+    "representation": 15,
+    "require": 16,
+    "text": 17,
+    "vector": 18,
+    "with": 19
+  },
+  "vocab_size": 20,
+  "lowercase": true,
+  "handle_unknown": true
+}
